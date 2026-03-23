@@ -26,7 +26,7 @@ On regroupe ensuite ces critères en fonction de leur importance dans ‘’scor
 -	WS48 15%
 
 Nous allons maintenant nous ateler sur la partie plus personnelle pour chaque joueur avec l’étude de ses statistiques d’un point de vue plus global. Comme pour la partie précedente, nous allons établir un score permettant de refléter l’impact du joueur sur la ligue en général. 
-Pour cela, nous allons utliser les statistiques plus habituelles pour chaque joueur. Celles-ci sont donc séparer en 5 :
+Pour cela, nous allons utliser les statistiques plus habituelles pour chaque joueur. Celles-ci sont donc séparée en 5 :
 -	PER (Player Effective Rating) fourni dans le dataset initial fournissant un indice global sur les statistiques primaires (points, passes , rebonds , contres et interceptions)
 -	TS% ( True Shooting Percentage) réunissant l’efficacité globale du joueur au tir (%2pts, %3pts,%lancers)
 -	Usage% (Volume de tir global)
